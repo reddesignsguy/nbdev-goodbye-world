@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-goodbye-world"
+  site-url: "https://reddesignsguy.github.io/nbdev-goodbye-world"
+  description: "a new github repo"
+  repo-branch: main
+  repo-url: "https://github.com/reddesignsguy/nbdev-goodbye-world"
